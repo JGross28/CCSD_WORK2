@@ -22,17 +22,18 @@ namespace GranolaBars
             finalOutcome = FinalOutcome(proceeds, profit);
 
             Console.WriteLine("The amount of cases sold were: " + casesSold);
-            Console.WriteLine("The price per bar was: {0:C}", pricePerBar);
-            Console.WriteLine("The gross income was: {0:C}", profit);
-            Console.WriteLine("The student government fees were: {0:C}", proceeds);
-            Console.WriteLine("Income minus government fees were: {0:C}", finalOutcome);
+            Console.WriteLine("The price per bar was: {0:C}", + pricePerBar);
+            Console.WriteLine("The gross income was: {0:C}", + profit);
+            Console.WriteLine("The student government fees were: {0:C}", + proceeds);
+            Console.WriteLine("Income minus government fees were: {0:C}", + finalOutcome);
+            Console.ReadLine();
         }
 
         public static int GetCasesSold()
         {
             int cSold;
             Console.WriteLine("Enter cases sold: ");
-            cSold = int.Parse(Console.ReadLine());
+            cSold = Convert.ToInt32(Console.ReadLine());
             return cSold;
         }
 
@@ -48,7 +49,7 @@ namespace GranolaBars
         {
             const double CASE_PRICE = 5.00;
             double profit;
-            profit = ((pricePerBar * 12) - CASE_PRICE) * cSold);
+            profit = ((pricePerBar * 12 - CASE_PRICE) * cSold);
             return profit;
         }
 
@@ -62,6 +63,9 @@ namespace GranolaBars
         {
             return (profit - proceeds);
         }
+
+        public static double cSold { get; set; }
+
     }
 }
 
