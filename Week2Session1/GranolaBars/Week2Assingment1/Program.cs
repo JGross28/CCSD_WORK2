@@ -22,10 +22,10 @@ namespace GranolaBars
             finalOutcome = FinalOutcome(proceeds, profit);
 
             Console.WriteLine("The amount of cases sold were: " + casesSold);
-            Console.WriteLine("The price per bar was: {0:C}", + pricePerBar);
-            Console.WriteLine("The gross income was: {0:C}", + profit);
-            Console.WriteLine("The student government fees were: {0:C}", + proceeds);
-            Console.WriteLine("Income minus government fees were: {0:C}", + finalOutcome);
+            Console.WriteLine("The price per bar was: {0:C}", pricePerBar);
+            Console.WriteLine("The gross income was: {0:C}",profit);
+            Console.WriteLine("The student government fees were: {0:C}",  proceeds);
+            Console.WriteLine("Income minus government fees were: {0:C}",  finalOutcome);
             Console.ReadLine();
         }
 

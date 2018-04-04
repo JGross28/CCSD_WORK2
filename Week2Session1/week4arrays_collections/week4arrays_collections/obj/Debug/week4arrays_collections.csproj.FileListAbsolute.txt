@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\week4arrays_collections\week4arrays_collections\bin\Debug\week4arrays_collections.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\week4arrays_collections\week4arrays_collections\bin\Debug\week4arrays_collections.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\week4arrays_collections\week4arrays_collections\obj\Debug\week4arrays_collections.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\week4arrays_collections\week4arrays_collections\obj\Debug\week4arrays_collections.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\week4arrays_collections\week4arrays_collections\obj\Debug\week4arrays_collections.pdb
