@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Magazine\Magazine\bin\Debug\Magazine.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Magazine\Magazine\bin\Debug\Magazine.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Magazine\Magazine\obj\Debug\Magazine.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Magazine\Magazine\obj\Debug\Magazine.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Magazine\Magazine\obj\Debug\Magazine.pdb

@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\3Arrays\bin\Debug\3Arrays.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\3Arrays\bin\Debug\3Arrays.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\3Arrays\obj\Debug\3Arrays.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\3Arrays\obj\Debug\3Arrays.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\3Arrays\obj\Debug\3Arrays.pdb

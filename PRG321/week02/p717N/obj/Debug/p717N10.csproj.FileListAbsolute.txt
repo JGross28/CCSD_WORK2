@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\p717N\bin\Debug\p717N.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\p717N\bin\Debug\p717N.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\p717N\obj\Debug\p717N10.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\p717N\obj\Debug\p717N.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG321\week02\p717N\obj\Debug\p717N.pdb

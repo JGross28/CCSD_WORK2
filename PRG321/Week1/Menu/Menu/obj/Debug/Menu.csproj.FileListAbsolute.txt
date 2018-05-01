@@ -1,0 +1,8 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week1\Menu\Menu\obj\Debug\Menu.pdb

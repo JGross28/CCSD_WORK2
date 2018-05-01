@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Program\Program\bin\Debug\Program.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Program\Program\bin\Debug\Program.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Program\Program\obj\Debug\Program.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\Program\Program\obj\Debug\Program.pdb

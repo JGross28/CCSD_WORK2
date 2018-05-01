@@ -1,0 +1,7 @@
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\bin\Debug\Week2Override.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\bin\Debug\Week2Override.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\obj\Debug\Week2Override.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\obj\Debug\Week2Override.Properties.Resources.resources
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\obj\Debug\Week2Override.csproj.GenerateResource.Cache
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\obj\Debug\Week2Override.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\week02\Week2Override\obj\Debug\Week2Override.pdb

@@ -1,0 +1,13 @@
+Note #1 - About implementing interfaces
+(in C#) --> public class Housing : iUnits
+(in Java) --> public class Housing implements iUnits
+
+Note #2 - About single inheritance 
+(in C#) --> public class SubObject : Object
+(in Java) --> public class SubObject extends Object
+
+Note #3 - There is no "virtual" keyword in Java
+
+Note #4 - Using the console
+(in C#) --> Console.WriteLine();
+(in Java) --> System.Out.Writeln();

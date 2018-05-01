@@ -1,5 +1,0 @@
-C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\ProfessorRating\Week2Assignment2\obj\Debug\Week2Assignment2.csprojResolveAssemblyReference.cache
-C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\ProfessorRating\Week2Assignment2\bin\Debug\Week2Assignment2.exe
-C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\ProfessorRating\Week2Assignment2\bin\Debug\Week2Assignment2.pdb
-C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\ProfessorRating\Week2Assignment2\obj\Debug\Week2Assignment2.exe
-C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\ProfessorRating\Week2Assignment2\obj\Debug\Week2Assignment2.pdb
