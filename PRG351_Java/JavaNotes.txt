@@ -1,3 +1,5 @@
+JAVA vs C#
+
 Note #1 - About implementing interfaces
 (in C#) --> public class Housing : iUnits
 (in Java) --> public class Housing implements iUnits
@@ -11,3 +13,15 @@ Note #3 - There is no "virtual" keyword in Java
 Note #4 - Using the console
 (in C#) --> Console.WriteLine();
 (in Java) --> System.Out.Writeln();
+
+Porting - translating one language source code to another
+
+Note #5 - Namespaces in Java
+In Java, namespaces are disgnated under the term "package"
+
+Note #6 - In Java, a "bool" is a "boolean"\
+
+Note #7 - When writting setter (for C++, C#, Java)
+	  the return type is always "void"
+
+Note #8 - "final" is reserved keyword. Cannot be used as a variable name

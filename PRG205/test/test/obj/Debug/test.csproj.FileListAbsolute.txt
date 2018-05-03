@@ -2,3 +2,5 @@ C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\test\test\bin\Debug\
 C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\test\test\bin\Debug\test.pdb
 C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\test\test\obj\Debug\test.exe
 C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\Week2Session1\test\test\obj\Debug\test.pdb
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG205\test\test\obj\Debug\test.exe
+C:\Users\CCSDuser\Documents\GitHub\CCSD_WORK2\PRG205\test\test\obj\Debug\test.pdb

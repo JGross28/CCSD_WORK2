@@ -1,5 +1,5 @@
 
-package java_mod_5;
+package Java_Assignments;
 
 public class Housing implements iUnits {
         protected int m_yearBuilt;
